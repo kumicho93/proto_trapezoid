@@ -3,7 +3,7 @@
 /// @note 拘束条件もった曲線式を設計する
 /// @date 2022/06/29 谷口拓海
 ///
-#include "AccelerationDesigner.h"
+#include "../include/AccelerationDesigner.h"
 
 /**
 	* @brief コンストラクタ

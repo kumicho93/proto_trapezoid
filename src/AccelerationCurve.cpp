@@ -3,7 +3,7 @@
 /// @note 加速度曲線式を作成する
 /// @date 2022/06/29 谷口拓海
 ///
-#include "AccelerationCurve.h"
+#include "../include/AccelerationCurve.h"
 
 /**
 	* @brief コンストラクタ

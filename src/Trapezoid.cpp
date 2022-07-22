@@ -3,7 +3,7 @@
 /// @note 台形制御による速度制御を行うクラス
 /// @date 2022/06/29 谷口拓海
 ///
-#include "Trapezoid.h"
+#include "../include/Trapezoid.h"
 
 /**
 	* @brief コンストラクタ
