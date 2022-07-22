@@ -8,7 +8,7 @@
 
 #include <cmath>
 #include <complex>
-#include <iostream>
+//#include <iostream> //コンパイルエラーした
 #include <ostream>
 
 

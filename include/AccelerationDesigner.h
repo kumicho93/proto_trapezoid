@@ -10,7 +10,7 @@
 
 #include <algorithm>
 #include <array>
-#include <iostream> 
+//#include <iostream> //コンパイルエラーした
 
 
 class AccelDesigner {

@@ -4,7 +4,7 @@
 
 #include "../system/system.h"
 #include "AccelerationDesigner.h"
-#include <iostream>
+//#include <iostream> //コンパイルエラーした
 #include <ostream>
 #include <cstdio>
 #include <fstream>
